@@ -13,8 +13,6 @@
  *   nB = 1  -> el operando B se toma negativo (-B)
  *   SG = 1  -> el resultado es negativo (el cero nunca se marca negativo)
  *
- * IMPORTANTE: digito_sel ahora tiene 3 bits. En el Pin Planner de Quartus
- * asigna digito_sel[2] al pin de selección del display del signo.
  */
 
 // ==========================================
