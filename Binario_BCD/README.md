@@ -270,7 +270,3 @@ top_bin_a_7seg
 ├── decodificador_7seg   (u_dec_centro)  Display centro    → apagado o 'r'
 └── decodificador_7seg   (u_dec_izq)     Display izquierdo → apagado o 'E'
 ```
-
-## Autor
-
-**Luis Adriano Camargo Ramos**
